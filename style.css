@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(49, 44, 44);
+    color: white;
+}
+
+h1{
+    text-align: center;
+}
+
+.todosec{
+    background-color: rgb(83, 83, 224);
+    display: flex;
+    justify-content: space-around;
+    width: 60%;
+    margin: auto;
+    color: black;
+    border-radius: 5px;
+}
+
+
+button{
+    height: 50%;
+    width: 15%;
+    margin-top: 15px;
+}
+
+input{
+    height: 20px;
+    margin-top: 13px;
+    width: 35%;
+    padding-left: 5px;
+}
+
+#listt{
+    background-color: rgb(83, 83, 224);
+    border-radius: 5px;
+    width: 50%;
+    margin: auto;
+
+
+}
+
